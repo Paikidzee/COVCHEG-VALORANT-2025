@@ -4,7 +4,10 @@
 
 ---
 
-![Screen](https://i.imgur.com/fjY5n3U.jpeg).
+<p float="left">
+  <img src="https://i.imgur.com/27e1YP6.png" width="300" />
+  <img src="https://i.imgur.com/x6soV00.png" width="300" />
+</p>
 
 ## ⚙️ System Requirements
 
