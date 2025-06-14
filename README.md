@@ -4,7 +4,7 @@
 
 ---
 
-![Screenschot](https://imgur.com/a/MSmlR4c)
+![Imgur](https://imgur.com/fjY5n3U).
 
 ## ⚙️ System Requirements
 
