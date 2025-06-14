@@ -4,7 +4,7 @@
 
 ---
 
-![Imgur](https://imgur.com/fjY5n3U).
+![Screen](https://i.imgur.com/fjY5n3U.jpeg).
 
 ## ⚙️ System Requirements
 
