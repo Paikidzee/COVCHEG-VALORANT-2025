@@ -47,6 +47,9 @@ Before launching, make sure to configure your system as follows:
 
 - **User Interface Controls**  
   Allows customization of software settings, toggling UI elements, and managing active functions.
+  
+- **HWID Changer**  
+  HWID changer is a tool that changes the hardware identifier of a computer. Using an HWID changer, this code can be modified to bypass bans or restrictions imposed by programs that use HWID to identify the device..
 
 ---
 
